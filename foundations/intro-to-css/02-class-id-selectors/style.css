@@ -1,0 +1,20 @@
+.classe.one, .classe.three, .classe.five {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.classe.three {
+    font-size: 24px;
+}
+
+
+#num2 {
+    color: #00f;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: 700;
+}
